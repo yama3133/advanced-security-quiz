@@ -4,7 +4,6 @@ function Ambient() {
   return (
     <>
       <div className="bg-ambient"></div>
-      <div className="bg-grid"></div>
     </>
   );
 }
