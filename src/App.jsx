@@ -14,7 +14,7 @@ const quizzes = [
     name: 'CISSP',
     fullName: 'Certified Information Systems Security Professional',
     icon: '🔐',
-    url: 'https://cissp-quiz.vercel.app',
+    url: 'https://cissp-quiz-pi.vercel.app',
     color: '#16a34a',
   },
   {
