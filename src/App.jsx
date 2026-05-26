@@ -22,7 +22,7 @@ const quizzes = [
     name: 'CCSP',
     fullName: 'Certified Cloud Security Professional',
     icon: '☁️',
-    url: 'https://ccsp-quiz-repo.vercel.app',
+    url: 'https://ccsp-quiz-vite.vercel.app',
     color: '#059669',
   },
   {
