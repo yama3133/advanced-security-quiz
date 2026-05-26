@@ -10,7 +10,7 @@
 
 - **CCSP** (Certified Cloud Security Professional)
   - クラウドセキュリティ認定資格
-  - 3つのドメイン、108問
+  - 6つのドメイン、200問
 
 - **CEH** (Certified Ethical Hacker)
   - 倫理的ハッキング認定資格
@@ -121,8 +121,8 @@ advanced-security-quiz/
 ### CCSP問題集
 - **URL**: https://ccsp-quiz-vite.vercel.app
 - **GitHub**: https://github.com/yama3133/ccsp-quiz
-- **問題数**: 108問
-- **ドメイン**: 3つ
+- **問題数**: 200問
+- **ドメイン**: 6つ
 
 ### CEH問題集
 - **URL**: https://ceh-quiz.vercel.app
